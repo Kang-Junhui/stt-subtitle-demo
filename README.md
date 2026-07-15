@@ -91,7 +91,6 @@ src/
     server/rtzr.ts                 # RTZR OpenAPI 인증/전사 클라이언트 (서버 전용)
 static/
   test.mp4                         # 테스트 영상 파일
-  API-doc/                         # RTZR STT API 문서
 .env.example                       # 필요한 환경 변수 예시
 ```
 
