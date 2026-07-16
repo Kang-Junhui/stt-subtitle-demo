@@ -51,7 +51,7 @@ static/
 | `language` | `ko` | 테스트 영상이 한국어 |
 | `use_diarization` | `true`, `spk_count: 0` | 한 문장에 여러 화자 발화가 섞여 나오는 문제 해결을 위해 활성화 (화자 수는 자동 예측) |
 | `use_disfluency_filter` | `true` | "음", "어" 등 간투어 제거 |
-| `use_word_timestamp` | `true` | SRT 블록을 5초 제한 + 문장 단위로 직접 재구성하기 위해 word 단위 타임스탬프 필요 |
+| `use_word_timestamp` | `true` | SRT 블록을 5초 제한 + 자막 타임스탬프 및 문장 단위 재구성을 위해 word 단위 타임스탬프 필요 |
 
 ## SRT 생성 규칙
 
